@@ -894,7 +894,7 @@ button {
 /* --- Interview --- */
 .interview {
   position: relative;
-  background: var(--color-bg) url("./assets/Vincent_van_Gogh_-_Irises_%281889%29.jpg") center center / cover no-repeat;
+  background: var(--color-bg) url("./assets/Vincent_van_Gogh_-_Irises_1889.jpg") center center / cover no-repeat;
   overflow: hidden;
 }
 
